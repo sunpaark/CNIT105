@@ -1,0 +1,31 @@
+
+
+7 lines were read from the file.
+
+First	Last	GPA	Courses
+==================================
+Romio	Shiba	3.35	5
+Julie	Persia	3.89	5
+Philip	Banks	2.45	4
+Jerry	Butler	3.12	3
+Austin	Powers	2.45	2
+Mark	Tyson	3.25	6
+Mike	Hamill	3.13	1
+
+The minimum number of courses is 0.
+The students with the minimum number of courses are:
+
+Mike	Hamill
+
+The maximum GPA is 3.89.
+The students with the maximum GPA are: 
+
+Julie Persia
+
+Average GPA = 3.09
+The students with GPAs above the average are: 
+Romio	Shiba
+Julie	Persia
+Jerry	Butler
+Mark	Tyson
+Mike	Hamill

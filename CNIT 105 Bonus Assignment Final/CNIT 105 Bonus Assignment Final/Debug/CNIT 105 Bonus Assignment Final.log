@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(63,9): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(72,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(77,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(80,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(156,16): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\CNIT 105 Bonus Assignment Final\Source.c(163,16): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  CNIT 105 Bonus Assignment Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Bonus Assignment Final\Debug\CNIT 105 Bonus Assignment Final.exe

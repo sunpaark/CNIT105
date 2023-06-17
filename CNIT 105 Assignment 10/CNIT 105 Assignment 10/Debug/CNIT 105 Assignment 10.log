@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 10\CNIT 105 Assignment 10\Source.c(44,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 10\CNIT 105 Assignment 10\Source.c(49,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+  CNIT 105 Assignment 10.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 10\Debug\CNIT 105 Assignment 10.exe

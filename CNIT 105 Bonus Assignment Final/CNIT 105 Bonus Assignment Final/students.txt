@@ -1,0 +1,7 @@
+Romio	Shiba	3.35	5
+Julie	Persia	3.89	5
+Philip	Banks	2.45	4
+Jerry	Butler	3.12	3
+Austin	Powers	2.45	2
+Mark	Tyson	3.25	6
+Mike	Hamill	3.13	1
