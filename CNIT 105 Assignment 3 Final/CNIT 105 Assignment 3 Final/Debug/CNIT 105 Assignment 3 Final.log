@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\CNIT 105 Assignment 3 Final\Source.c(37,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\CNIT 105 Assignment 3 Final\Source.c(45,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\CNIT 105 Assignment 3 Final\Source.c(46,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\CNIT 105 Assignment 3 Final\Source.c(58,61): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\CNIT 105 Assignment 3 Final\Source.c(58,61): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  CNIT 105 Assignment 3 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 3 Final\Debug\CNIT 105 Assignment 3 Final.exe

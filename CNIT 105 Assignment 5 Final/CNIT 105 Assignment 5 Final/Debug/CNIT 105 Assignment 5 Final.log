@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 5 Final\CNIT 105 Assignment 5 Final\Source.c(82,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 5 Final\CNIT 105 Assignment 5 Final\Source.c(88,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CNIT 105 Assignment 5 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 5 Final\Debug\CNIT 105 Assignment 5 Final.exe

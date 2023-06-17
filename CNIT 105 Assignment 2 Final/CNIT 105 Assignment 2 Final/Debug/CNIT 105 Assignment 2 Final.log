@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 2 Final\CNIT 105 Assignment 2 Final\Source.c(36,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 2 Final\CNIT 105 Assignment 2 Final\Source.c(44,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 2 Final\CNIT 105 Assignment 2 Final\Source.c(55,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 2 Final\CNIT 105 Assignment 2 Final\Source.c(62,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CNIT 105 Assignment 2 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 2 Final\Debug\CNIT 105 Assignment 2 Final.exe
