@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 6 Final\CNIT 105 Lab 6 Final\Source.c(68,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 6 Final\CNIT 105 Lab 6 Final\Source.c(82,7): warning C4101: 'num': unreferenced local variable
+  CNIT 105 Lab 6 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 6 Final\Debug\CNIT 105 Lab 6 Final.exe

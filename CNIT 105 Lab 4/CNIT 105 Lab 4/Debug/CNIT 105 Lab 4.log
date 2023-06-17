@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 4\CNIT 105 Lab 4\Source.c(114,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 4\CNIT 105 Lab 4\Source.c(26,20): warning C4101: 'evencount': unreferenced local variable
+  CNIT 105 Lab 4.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 4\Debug\CNIT 105 Lab 4.exe
