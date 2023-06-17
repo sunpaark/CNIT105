@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\CNIT 105 Assignment 9 Final\Source.c(39,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\CNIT 105 Assignment 9 Final\Source.c(73,3): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\CNIT 105 Assignment 9 Final\Source.c(93,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\CNIT 105 Assignment 9 Final\Source.c(103,11): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\CNIT 105 Assignment 9 Final\Source.c(103,11): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 3 has type 'int'
+  CNIT 105 Assignment 9 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 9 Final\Debug\CNIT 105 Assignment 9 Final.exe

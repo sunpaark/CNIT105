@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final\Source.c(59,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final\Source.c(62,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final\Source.c(66): warning C4716: 'sumInverseRange': must return a value
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final\Source.c(96): warning C4716: 'gcf': must return a value
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final\Source.c(79): warning C4716: 'factorial': must return a value
+  CNIT 105 Assignment 7 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Assignment 7 Final\Debug\CNIT 105 Assignment 7 Final.exe

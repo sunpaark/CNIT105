@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CNIT 105 Assignment 7 Final", "CNIT 105 Assignment 7 Final\CNIT 105 Assignment 7 Final.vcxproj", "{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Debug|x64.ActiveCfg = Debug|x64
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Debug|x64.Build.0 = Debug|x64
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Debug|x86.Build.0 = Debug|Win32
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Release|x64.ActiveCfg = Release|x64
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Release|x64.Build.0 = Release|x64
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Release|x86.ActiveCfg = Release|Win32
+		{E4CA71AF-1C24-48FA-906E-45315ACFE5C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FEC90C-460A-42DE-B109-2314186792CE}
+	EndGlobalSection
+EndGlobal
