@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 8 Final\CNIT 105 Lab 8 Final\Source.c(27,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CNIT 105 Lab 8 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 8 Final\Debug\CNIT 105 Lab 8 Final.exe

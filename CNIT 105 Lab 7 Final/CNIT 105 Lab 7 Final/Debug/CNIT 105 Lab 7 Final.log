@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 7 Final\CNIT 105 Lab 7 Final\Source.c(45,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CNIT 105 Lab 7 Final.vcxproj -> C:\Users\Sunny\Desktop\Purdue\CNIT 105\CNIT 105 Lab 7 Final\Debug\CNIT 105 Lab 7 Final.exe
